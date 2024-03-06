@@ -1,0 +1,10 @@
+let n = 5
+let x = 10
+let y = n + x
+let z = n - x
+let m = n * x
+let d = n / x
+console.log('soma: entre ' + n + ' e ' + x + ' = ' + y)
+console.log('subtração entre ' + n + ' e ' + x + ' = ' + z)
+console.log('multiplicação entre ' + n + ' e ' + x + ' = ' + m)
+console.log('divisão entre ' + n + ' e ' + x + ' = ' + d)
